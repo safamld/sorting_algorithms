@@ -31,4 +31,5 @@ void insertion_sort_list(listint_t **list);
 void quick_sort(int *array, size_t size);
 /*advanced */
 void shell_sort(int *array, size_t size);
+void cocktail_sort_list(listint_t **list);
 #endif
